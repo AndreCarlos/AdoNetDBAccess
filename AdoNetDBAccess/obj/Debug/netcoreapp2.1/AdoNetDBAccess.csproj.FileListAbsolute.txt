@@ -1,0 +1,9 @@
+C:\Users\Andre\Documents\Visual Studio 2017\Projects\AdoNetDBAccess\AdoNetDBAccess\obj\Debug\netcoreapp2.1\AdoNetDBAccess.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\Visual Studio 2017\Projects\AdoNetDBAccess\AdoNetDBAccess\obj\Debug\netcoreapp2.1\AdoNetDBAccess.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Visual Studio 2017\Projects\AdoNetDBAccess\AdoNetDBAccess\obj\Debug\netcoreapp2.1\AdoNetDBAccess.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Visual Studio 2017\Projects\AdoNetDBAccess\AdoNetDBAccess\obj\Debug\netcoreapp2.1\AdoNetDBAccess.AssemblyInfo.cs
+C:\Users\Andre\Documents\Visual Studio 2017\Projects\AdoNetDBAccess\AdoNetDBAccess\bin\Debug\netcoreapp2.1\AdoNetDBAccess.deps.json
+C:\Users\Andre\Documents\Visual Studio 2017\Projects\AdoNetDBAccess\AdoNetDBAccess\bin\Debug\netcoreapp2.1\AdoNetDBAccess.dll
+C:\Users\Andre\Documents\Visual Studio 2017\Projects\AdoNetDBAccess\AdoNetDBAccess\bin\Debug\netcoreapp2.1\AdoNetDBAccess.pdb
+C:\Users\Andre\Documents\Visual Studio 2017\Projects\AdoNetDBAccess\AdoNetDBAccess\obj\Debug\netcoreapp2.1\AdoNetDBAccess.dll
+C:\Users\Andre\Documents\Visual Studio 2017\Projects\AdoNetDBAccess\AdoNetDBAccess\obj\Debug\netcoreapp2.1\AdoNetDBAccess.pdb
